@@ -1,0 +1,6 @@
+*   485ff1f docs: added version 1 & 2
+|\  
+| * 3e26b0e docs: added version 1
+* | e9ccbaa docs: added version 2
+|/  
+* 6d8893a inisiasi github
