@@ -1,0 +1,16 @@
+  984  git commit -m "build: added soal 3 jawaban"
+  985  git push origin --all
+  986  brew doctor
+  987  brew doctor
+  988  brew doctor
+  989  brew cleanup
+  990  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+  991  uname -sr && whoami
+  992  brew update
+  993  mkdir ~/recovery_ops\ncd ~/recovery_ops
+  994  curl -O https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+  995  head -n 1260 system_raw.txt | tail -n 11 > recovered_sector.txt
+  996  rm system_raw.txt
+  997  code .
+  998  cd ~/recovery_ops
+  999  code .
